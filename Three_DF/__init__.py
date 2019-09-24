@@ -1,0 +1,16 @@
+#initialize the auto scripts for the Pabuito Grade System
+import ThreeDF_TurnIn
+import ThreeDF_Presentation
+import ThreeDF_HistoryDeleted
+import ThreeDF_ObjectNamed
+import ThreeDF_ObjectPlacement
+import ThreeDF_PivotPlacement
+import ThreeDF_IllegalGeo
+import ThreeDF_Polycount
+import ThreeDF_Seamless
+import ThreeDF_Scale
+import ThreeDF_FrozenTransforms
+import ThreeDF_AutoA
+import ThreeDF_SceneLayered
+
+reload(ThreeDF_SceneLayered)
